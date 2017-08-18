@@ -1,6 +1,6 @@
 # ATAC-seq correlation analysis 
 
-# Step 1 : create normalised ATAC-seq signal track <br/>
+<h3> Step 1 : create normalised ATAC-seq signal track <br/> </h3>
 you can use GUAVA tool which automatically creates ATAC-seq track <br/>
 <br/>
 # Step 2 : calculate correlation using normalised tracks <br/>
