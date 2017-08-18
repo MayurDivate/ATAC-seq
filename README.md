@@ -1,1 +1,5 @@
-# ATACseq_scripts
+# ATAC-seq
+
+1. correlation analysis 
+
+ 
