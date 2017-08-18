@@ -4,7 +4,7 @@
 
 library(ggplot2)
 
-fileX="/path/sample1_sample2.txt"
+fileX="/path/sample1_sample2_input.txt"
 
 plotDf <- read.table(fileX,header = T,sep = "\t",stringsAsFactors = F )
 #head(plotDf)
