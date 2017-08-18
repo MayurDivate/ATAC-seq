@@ -19,6 +19,6 @@ Use: unionBDG.sh <br/>
 <h3> Step 6 : Plot data <br/> </h3>
 Use: ATACseq_scatteredplot.r <br/>
 <br/>
-<h3> sample plot </h3>
+<h5> sample correlation scatter plot </h5>
 
 <img src="https://github.com/MayurDivate/ATACseq_scripts/blob/master/correlation_analysis/sample1_sample2_corr_plot.jpg">
