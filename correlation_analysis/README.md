@@ -1,8 +1,8 @@
 # ATAC-seq correlation analysis 
 
-Step 1 : create normalised ATAC-seq signal track
-you can use GUAVA tool which automatically creates ATAC-seq track 
-
+Step 1 : create normalised ATAC-seq signal track <br/>
+you can use GUAVA tool which automatically creates ATAC-seq track <br/>
+<br/>
 Step 2 : calculate correlation using normalised tracks 
 Use bwCorr.sh or  bigWigCorrelate UCSC program
   
