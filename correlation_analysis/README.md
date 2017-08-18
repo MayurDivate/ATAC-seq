@@ -14,3 +14,5 @@ Use unionBDG.sh
 
 Step 6 : Plot data
 Use ATACseq_scatteredplot.r
+
+<img src="https://github.com/MayurDivate/ATACseq_scripts/blob/master/correlation_analysis/sample1_sample2_corr_plot.jpg">
