@@ -1,20 +1,20 @@
 # ATAC-seq correlation analysis 
 
 <h3> Step 1 : create normalised ATAC-seq signal track <br/> </h3>
-you can use GUAVA tool which automatically creates ATAC-seq track <br/>
+you can use GUAVA tool which automatically creates ATAC-seq track <br/> </h3>
 <br/>
-# Step 2 : calculate correlation using normalised tracks <br/>
+<h3> Step 2 : calculate correlation using normalised tracks <br/> </h3>
 Use bwCorr.sh or  bigWigCorrelate UCSC program <br/>
 <br/>  
-# Step 3 : convert GUAVA BigWig track to  bedGraph format <br/>
+<h3> Step 3 : convert GUAVA BigWig track to  bedGraph format <br/> </h3>
 Use bw2bdg.sh <br/>
 <br/>
-# Step 5 : Generate input for ATACseq_scatteredplot.r <br/>
+<h3> Step 5 : Generate input for ATACseq_scatteredplot.r <br/> </h3>
 Use unionBDG.sh <br/>
 <br/>
-# Step 6 : Plot data <br/>
+<h3> Step 6 : Plot data <br/> </h3>
 Use ATACseq_scatteredplot.r <br/>
 <br/>
-<h1> sample plot </h1>
+<h3> sample plot </h3>
 
 <img src="https://github.com/MayurDivate/ATACseq_scripts/blob/master/correlation_analysis/sample1_sample2_corr_plot.jpg">
