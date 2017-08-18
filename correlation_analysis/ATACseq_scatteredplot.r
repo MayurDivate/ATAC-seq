@@ -1,6 +1,8 @@
 # R script to plot scatterplot for ATACseq seq signals using two samples 
 # Please refer the correlation.readme to prepare input data
-# and calculate correlation   
+# and calculate correlation
+# Author@MayurDivate 
+#   
 
 library(ggplot2)
 
